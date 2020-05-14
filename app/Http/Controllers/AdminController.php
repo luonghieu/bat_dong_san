@@ -43,7 +43,7 @@ class AdminController extends Controller
 {
     //profile
     public function profile()
-    {
+    {//abc
         return view('admin.auth.profile');
     }
 
